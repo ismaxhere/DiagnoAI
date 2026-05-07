@@ -211,3 +211,11 @@ DiagnoAI is a preliminary decision-support system for educational purpose and do
 - ML model endpoint (`/predict-ml`)
 - Better explainability charts
 - Rich admin analytics
+
+
+## Demonstration Video
+
+
+https://github.com/user-attachments/assets/10e046e6-36be-490b-b29c-7f79b74d4e98
+
+
